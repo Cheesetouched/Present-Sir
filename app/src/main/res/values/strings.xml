@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Present Sir</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Tch Tch Tch!</string>
+    <string name="slide_1_desc">Missing Your Institution Bus Often?</string>
+
+    <string name="slide_2_title">We Got Your Six.</string>
+    <string name="slide_2_desc">With Present Sir, You Can Finally Catch It On Time.</string>
+
+    <string name="slide_3_title">Boring Tring Tring?</string>
+    <string name="slide_3_desc">Not An Alarm. It\'s More Than That!</string>
+
+    <string name="slide_4_title">Curious Yet?</string>
+    <string name="slide_4_desc">Register And Get That Bus Tiger!</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+
+    <string name="header">Present Sir</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="mobile">Mobile</string>
+    <string name="login">Login</string>
+    <string name="create">Create Account</string>
+    <string name="register">Signup</string>
+    <string name="btnlinktologin">Already Registered? Login Here.</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="bgdesc">Background</string>
+    <string name="icondesc">Icon</string>
+    <string name="upload">User Photo</string>
+
+    <string name="selectschool">Select Your School</string>
+    <string name="school">School</string>
+    <string name="branch">Branch</string>
+    <string name="buses">Buses</string>
+    <string name="continue_next">CONTINUE</string>
+
+    <string name="selectroute">Select Your Route</string>
+    <string name="route">Route</string>
+
+    <string name="string_choose_file">Upload Your Image</string>
+    <string name="string_capture_image">Capture</string>
+    <string name="string_upload_image">Select</string>
+
+    <string name="countrycode">+91</string>
+    <string name="mobiledefault">9871495638</string>
+    <string name="mobilewarning">Please Enter Your Phone Number. We Will Send A SMS For OTP Verification. Carrier Charges May Apply.</string>
+    <string name="uploadwarning">Our Driver Needs To Confirm Your Identity. Please Upload Your Image. Unclear Upload May Lead To Deactivation!</string>
+    <string name="submit">SUBMIT</string>
+    <string name="otpsent">An OTP Has Been Sent To</string>
+
+    <string name="present">PRESENT</string>
+
+    <string name="absent">ABSENT</string>
+
+</resources>
